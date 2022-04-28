@@ -1,0 +1,9 @@
+https://github.com/Azure/terraform
+https://github.com/hashicorp/terraform-provider-azurerm
+https://github.com/Azure-Terraform
+https://github.com/ned1313/Implementing-Terraform-on-Microsoft-Azure
+https://registry.terraform.io/providers/microsoft/azuredevops/latest/docs/resources/git_repository
+https://registry.terraform.io/providers/microsoft/azuredevops/latest/docs/data-sources/git_repository
+https://samcogan.com/using-terraform-modules-from-git-in-azure-devops
+https://thomasthornton.cloud/2021/03/19/deploy-terraform-using-github-actions-into-azure/
+https://www.azuredevopslabs.com/labs/vstsextend/terraform/
