@@ -1,0 +1,1 @@
+This folder will have the scripts that are used to deploy the landingzone in Microsoft Azure Cloud.
